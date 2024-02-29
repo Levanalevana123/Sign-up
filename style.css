@@ -1,0 +1,35 @@
+#head {
+    border-color: darkgreen;
+}
+
+#email {
+    border-color: blue;
+}
+
+#passone {
+    border-color: darkblue;
+}
+
+#passtwo {
+    border-color: darkblue;
+}
+
+body {
+    background-color: rgb(98, 179, 179);
+}
+
+#btn:hover {
+    background-color: darkred;
+    border-color: black;
+}
+#btn {
+    background-color: rgb(153, 89, 89);
+    border-color: black;
+}
+#submit:hover {
+    background-color: green;
+    border-color: black;
+}
+#submit {background-color: yellow;
+    border-color: black;
+}
